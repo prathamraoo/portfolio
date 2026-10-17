@@ -1,4 +1,4 @@
-# Pratham Rao — Robotics × AI Portfolio
+# My Portfolio — Robotics × AI
 
 A responsive personal portfolio built with React, Vite, plain CSS, Framer Motion, Three.js, React Three Fiber, Drei, and Lucide React.
 
